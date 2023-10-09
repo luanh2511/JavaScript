@@ -1,0 +1,19 @@
+Console.log() - Exibe uma mensagem para o usuario;
+
+Asapas Simples (''), Aspas Duplas ("") ou Crase (``) tem a mesma função de exbir um texto;
+
+HTML - Para gerar o codigo base no VScode você pode utilizar !, hmtl:5 ou Ctrl + Espaço;
+
+let - comando para definir uma variavel;
+
+Uma variavel sem valor se torna Undefined;
+
+Você não pode utilizar palavras reservadas pelo JS para criar uma variavel (let, if, else, var, etc);
+
+Não se pode iniciar o nome de uma variavel com um numero;
+
+Não utilize var em JS, utilize let ou const;
+
+As mesmas regras das variaveis se aplicam pára constantes;
+
+Constantes devem ser declaradas na sua criação pois não podem ser alteradas durante o codigo;
